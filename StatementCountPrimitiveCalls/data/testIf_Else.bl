@@ -1,0 +1,10 @@
+IF random THEN
+    move
+    turnback
+    move
+    infect
+    move
+  ELSE
+    turnleft
+    turnright
+  END IF

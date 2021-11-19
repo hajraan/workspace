@@ -1,0 +1,7 @@
+IF random THEN
+    move
+    turnback
+    move
+    infect
+    move
+ END IF
